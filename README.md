@@ -1,0 +1,2 @@
+# PyQt6_Framwork_with_Proxy_Manager
+带代理管理器的pyqt6框架
