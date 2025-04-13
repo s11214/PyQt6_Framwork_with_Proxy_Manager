@@ -47,7 +47,7 @@ class PreloadThread(QThread):
         self.finished.emit()
 
 def main():
-    app_name = "PyQt6_Framwork_with_Proxy_Manager"
+    app_name = "PyQt6_Framework_with_Proxy_Manager"
     app = QApplication(sys.argv)
     app.setApplicationName(app_name)
     app.setOrganizationName(app_name)
